@@ -1,0 +1,862 @@
+[
+    {
+        "id": "735018",
+        "name": "Blackstar Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/735018/"
+    },
+    {
+        "id": "735002",
+        "name": "Blackstar Dagger",
+        "item_link": "https://bdocodex.com/us/item/735002/"
+    },
+    {
+        "id": "735017",
+        "name": "Blackstar Do Stave",
+        "item_link": "https://bdocodex.com/us/item/735017/"
+    },
+    {
+        "id": "735019",
+        "name": "Blackstar Gravity Cores",
+        "item_link": "https://bdocodex.com/us/item/735019/"
+    },
+    {
+        "id": "735013",
+        "name": "Blackstar Haladie",
+        "item_link": "https://bdocodex.com/us/item/735013/"
+    },
+    {
+        "id": "735006",
+        "name": "Blackstar Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/735006/"
+    },
+    {
+        "id": "735007",
+        "name": "Blackstar Kunai",
+        "item_link": "https://bdocodex.com/us/item/735007/"
+    },
+    {
+        "id": "735015",
+        "name": "Blackstar Mareca",
+        "item_link": "https://bdocodex.com/us/item/735015/"
+    },
+    {
+        "id": "735010",
+        "name": "Blackstar Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/735010/"
+    },
+    {
+        "id": "735004",
+        "name": "Blackstar Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/735004/"
+    },
+    {
+        "id": "735014",
+        "name": "Blackstar Quoratum",
+        "item_link": "https://bdocodex.com/us/item/735014/"
+    },
+    {
+        "id": "735011",
+        "name": "Blackstar Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/735011/"
+    },
+    {
+        "id": "735016",
+        "name": "Blackstar Shard",
+        "item_link": "https://bdocodex.com/us/item/735016/"
+    },
+    {
+        "id": "735001",
+        "name": "Blackstar Shield",
+        "item_link": "https://bdocodex.com/us/item/735001/"
+    },
+    {
+        "id": "735008",
+        "name": "Blackstar Shuriken",
+        "item_link": "https://bdocodex.com/us/item/735008/"
+    },
+    {
+        "id": "735003",
+        "name": "Blackstar Talisman",
+        "item_link": "https://bdocodex.com/us/item/735003/"
+    },
+    {
+        "id": "735005",
+        "name": "Blackstar Trinket",
+        "item_link": "https://bdocodex.com/us/item/735005/"
+    },
+    {
+        "id": "735009",
+        "name": "Blackstar Vambrace",
+        "item_link": "https://bdocodex.com/us/item/735009/"
+    },
+    {
+        "id": "735012",
+        "name": "Blackstar Vitclari",
+        "item_link": "https://bdocodex.com/us/item/735012/"
+    },
+    {
+        "id": "738218",
+        "name": "Godr-Ayed Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/738218/"
+    },
+    {
+        "id": "738202",
+        "name": "Godr-Ayed Dagger",
+        "item_link": "https://bdocodex.com/us/item/738202/"
+    },
+    {
+        "id": "738217",
+        "name": "Godr-Ayed Do Stave",
+        "item_link": "https://bdocodex.com/us/item/738217/"
+    },
+    {
+        "id": "738219",
+        "name": "Godr-Ayed Gravity Cores",
+        "item_link": "https://bdocodex.com/us/item/738219/"
+    },
+    {
+        "id": "738213",
+        "name": "Godr-Ayed Haladie",
+        "item_link": "https://bdocodex.com/us/item/738213/"
+    },
+    {
+        "id": "738206",
+        "name": "Godr-Ayed Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/738206/"
+    },
+    {
+        "id": "738207",
+        "name": "Godr-Ayed Kunai",
+        "item_link": "https://bdocodex.com/us/item/738207/"
+    },
+    {
+        "id": "738215",
+        "name": "Godr-Ayed Mareca",
+        "item_link": "https://bdocodex.com/us/item/738215/"
+    },
+    {
+        "id": "738210",
+        "name": "Godr-Ayed Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/738210/"
+    },
+    {
+        "id": "738204",
+        "name": "Godr-Ayed Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/738204/"
+    },
+    {
+        "id": "738214",
+        "name": "Godr-Ayed Quoratum",
+        "item_link": "https://bdocodex.com/us/item/738214/"
+    },
+    {
+        "id": "738211",
+        "name": "Godr-Ayed Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/738211/"
+    },
+    {
+        "id": "738216",
+        "name": "Godr-Ayed Shard",
+        "item_link": "https://bdocodex.com/us/item/738216/"
+    },
+    {
+        "id": "738201",
+        "name": "Godr-Ayed Shield",
+        "item_link": "https://bdocodex.com/us/item/738201/"
+    },
+    {
+        "id": "738208",
+        "name": "Godr-Ayed Shuriken",
+        "item_link": "https://bdocodex.com/us/item/738208/"
+    },
+    {
+        "id": "738203",
+        "name": "Godr-Ayed Talisman",
+        "item_link": "https://bdocodex.com/us/item/738203/"
+    },
+    {
+        "id": "738205",
+        "name": "Godr-Ayed Trinket",
+        "item_link": "https://bdocodex.com/us/item/738205/"
+    },
+    {
+        "id": "738209",
+        "name": "Godr-Ayed Vambrace",
+        "item_link": "https://bdocodex.com/us/item/738209/"
+    },
+    {
+        "id": "738212",
+        "name": "Godr-Ayed Vitclari",
+        "item_link": "https://bdocodex.com/us/item/738212/"
+    },
+    {
+        "id": "741015",
+        "name": "Kutum Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/741015/"
+    },
+    {
+        "id": "10340",
+        "name": "Kutum Dagger",
+        "item_link": "https://bdocodex.com/us/item/10340/"
+    },
+    {
+        "id": "739916",
+        "name": "Kutum Do Stave",
+        "item_link": "https://bdocodex.com/us/item/739916/"
+    },
+    {
+        "id": "742515",
+        "name": "Kutum Gravity Cores",
+        "item_link": "https://bdocodex.com/us/item/742515/"
+    },
+    {
+        "id": "692516",
+        "name": "Kutum Haladie",
+        "item_link": "https://bdocodex.com/us/item/692516/"
+    },
+    {
+        "id": "13140",
+        "name": "Kutum Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/13140/"
+    },
+    {
+        "id": "14540",
+        "name": "Kutum Kunai",
+        "item_link": "https://bdocodex.com/us/item/14540/"
+    },
+    {
+        "id": "733215",
+        "name": "Kutum Mareca",
+        "item_link": "https://bdocodex.com/us/item/733215/"
+    },
+    {
+        "id": "13540",
+        "name": "Kutum Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/13540/"
+    },
+    {
+        "id": "10740",
+        "name": "Kutum Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/10740/"
+    },
+    {
+        "id": "730716",
+        "name": "Kutum Quoratum",
+        "item_link": "https://bdocodex.com/us/item/730716/"
+    },
+    {
+        "id": "13840",
+        "name": "Kutum Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/13840/"
+    },
+    {
+        "id": "735615",
+        "name": "Kutum Shard",
+        "item_link": "https://bdocodex.com/us/item/735615/"
+    },
+    {
+        "id": "10140",
+        "name": "Kutum Shield",
+        "item_link": "https://bdocodex.com/us/item/10140/"
+    },
+    {
+        "id": "14640",
+        "name": "Kutum Shuriken",
+        "item_link": "https://bdocodex.com/us/item/14640/"
+    },
+    {
+        "id": "10540",
+        "name": "Kutum Talisman",
+        "item_link": "https://bdocodex.com/us/item/10540/"
+    },
+    {
+        "id": "13040",
+        "name": "Kutum Trinket",
+        "item_link": "https://bdocodex.com/us/item/13040/"
+    },
+    {
+        "id": "11340",
+        "name": "Kutum Vambrace",
+        "item_link": "https://bdocodex.com/us/item/11340/"
+    },
+    {
+        "id": "719040",
+        "name": "Kutum Vitclari",
+        "item_link": "https://bdocodex.com/us/item/719040/"
+    },
+    {
+        "id": "741013",
+        "name": "Nouver Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/741013/"
+    },
+    {
+        "id": "10338",
+        "name": "Nouver Dagger",
+        "item_link": "https://bdocodex.com/us/item/10338/"
+    },
+    {
+        "id": "739914",
+        "name": "Nouver Do Stave",
+        "item_link": "https://bdocodex.com/us/item/739914/"
+    },
+    {
+        "id": "742513",
+        "name": "Nouver Gravity Cores",
+        "item_link": "https://bdocodex.com/us/item/742513/"
+    },
+    {
+        "id": "692514",
+        "name": "Nouver Haladie",
+        "item_link": "https://bdocodex.com/us/item/692514/"
+    },
+    {
+        "id": "13138",
+        "name": "Nouver Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/13138/"
+    },
+    {
+        "id": "14538",
+        "name": "Nouver Kunai",
+        "item_link": "https://bdocodex.com/us/item/14538/"
+    },
+    {
+        "id": "733213",
+        "name": "Nouver Mareca",
+        "item_link": "https://bdocodex.com/us/item/733213/"
+    },
+    {
+        "id": "13538",
+        "name": "Nouver Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/13538/"
+    },
+    {
+        "id": "10738",
+        "name": "Nouver Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/10738/"
+    },
+    {
+        "id": "730714",
+        "name": "Nouver Quoratum",
+        "item_link": "https://bdocodex.com/us/item/730714/"
+    },
+    {
+        "id": "13838",
+        "name": "Nouver Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/13838/"
+    },
+    {
+        "id": "735613",
+        "name": "Nouver Shard",
+        "item_link": "https://bdocodex.com/us/item/735613/"
+    },
+    {
+        "id": "10138",
+        "name": "Nouver Shield",
+        "item_link": "https://bdocodex.com/us/item/10138/"
+    },
+    {
+        "id": "14638",
+        "name": "Nouver Shuriken",
+        "item_link": "https://bdocodex.com/us/item/14638/"
+    },
+    {
+        "id": "10538",
+        "name": "Nouver Talisman",
+        "item_link": "https://bdocodex.com/us/item/10538/"
+    },
+    {
+        "id": "13038",
+        "name": "Nouver Trinket",
+        "item_link": "https://bdocodex.com/us/item/13038/"
+    },
+    {
+        "id": "11338",
+        "name": "Nouver Vambrace",
+        "item_link": "https://bdocodex.com/us/item/11338/"
+    },
+    {
+        "id": "719038",
+        "name": "Nouver Vitclari",
+        "item_link": "https://bdocodex.com/us/item/719038/"
+    },
+    {
+        "id": "692504",
+        "name": "Ahin Haladie",
+        "item_link": "https://bdocodex.com/us/item/692504/"
+    },
+    {
+        "id": "13503",
+        "name": "Ascending Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/13503/"
+    },
+    {
+        "id": "10103",
+        "name": "Axion Shield",
+        "item_link": "https://bdocodex.com/us/item/10103/"
+    },
+    {
+        "id": "692505",
+        "name": "Baduum Haladie",
+        "item_link": "https://bdocodex.com/us/item/692505/"
+    },
+    {
+        "id": "13803",
+        "name": "Bhatu Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/13803/"
+    },
+    {
+        "id": "13103",
+        "name": "Black Warrior Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/13103/"
+    },
+    {
+        "id": "13005",
+        "name": "Blade Trinket",
+        "item_link": "https://bdocodex.com/us/item/13005/"
+    },
+    {
+        "id": "739904",
+        "name": "Bodul Do Stave",
+        "item_link": "https://bdocodex.com/us/item/739904/"
+    },
+    {
+        "id": "10303",
+        "name": "Bronze Dagger",
+        "item_link": "https://bdocodex.com/us/item/10303/"
+    },
+    {
+        "id": "13504",
+        "name": "Crow Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/13504/"
+    },
+    {
+        "id": "733204",
+        "name": "Dohr Mareca",
+        "item_link": "https://bdocodex.com/us/item/733204/"
+    },
+    {
+        "id": "14504",
+        "name": "Estique Kunai",
+        "item_link": "https://bdocodex.com/us/item/14504/"
+    },
+    {
+        "id": "14604",
+        "name": "Estique Shuriken",
+        "item_link": "https://bdocodex.com/us/item/14604/"
+    },
+    {
+        "id": "13804",
+        "name": "Ganatte Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/13804/"
+    },
+    {
+        "id": "741005",
+        "name": "Geumgang Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/741005/"
+    },
+    {
+        "id": "739906",
+        "name": "Geumgang Do Stave",
+        "item_link": "https://bdocodex.com/us/item/739906/"
+    },
+    {
+        "id": "742503",
+        "name": "Gravity Cores of Acceleration",
+        "item_link": "https://bdocodex.com/us/item/742503/"
+    },
+    {
+        "id": "742504",
+        "name": "Gravity Cores of Augmentation",
+        "item_link": "https://bdocodex.com/us/item/742504/"
+    },
+    {
+        "id": "742505",
+        "name": "Gravity Cores of Mass",
+        "item_link": "https://bdocodex.com/us/item/742505/"
+    },
+    {
+        "id": "10503",
+        "name": "Helrick Talisman",
+        "item_link": "https://bdocodex.com/us/item/10503/"
+    },
+    {
+        "id": "741004",
+        "name": "Heukchil Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/741004/"
+    },
+    {
+        "id": "13003",
+        "name": "Incense Trinket",
+        "item_link": "https://bdocodex.com/us/item/13003/"
+    },
+    {
+        "id": "11305",
+        "name": "Iron Vambrace",
+        "item_link": "https://bdocodex.com/us/item/11305/"
+    },
+    {
+        "id": "741003",
+        "name": "Jade Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/741003/"
+    },
+    {
+        "id": "10504",
+        "name": "Jubre Talisman",
+        "item_link": "https://bdocodex.com/us/item/10504/"
+    },
+    {
+        "id": "10105",
+        "name": "Kite Shield",
+        "item_link": "https://bdocodex.com/us/item/10105/"
+    },
+    {
+        "id": "741009",
+        "name": "Krea Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/741009/"
+    },
+    {
+        "id": "10324",
+        "name": "Krea Dagger",
+        "item_link": "https://bdocodex.com/us/item/10324/"
+    },
+    {
+        "id": "739910",
+        "name": "Krea Do Stave",
+        "item_link": "https://bdocodex.com/us/item/739910/"
+    },
+    {
+        "id": "742509",
+        "name": "Krea Gravity Cores",
+        "item_link": "https://bdocodex.com/us/item/742509/"
+    },
+    {
+        "id": "692510",
+        "name": "Krea Haladie",
+        "item_link": "https://bdocodex.com/us/item/692510/"
+    },
+    {
+        "id": "13124",
+        "name": "Krea Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/13124/"
+    },
+    {
+        "id": "14524",
+        "name": "Krea Kunai",
+        "item_link": "https://bdocodex.com/us/item/14524/"
+    },
+    {
+        "id": "733209",
+        "name": "Krea Mareca",
+        "item_link": "https://bdocodex.com/us/item/733209/"
+    },
+    {
+        "id": "13524",
+        "name": "Krea Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/13524/"
+    },
+    {
+        "id": "10724",
+        "name": "Krea Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/10724/"
+    },
+    {
+        "id": "730710",
+        "name": "Krea Quoratum",
+        "item_link": "https://bdocodex.com/us/item/730710/"
+    },
+    {
+        "id": "13824",
+        "name": "Krea Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/13824/"
+    },
+    {
+        "id": "735609",
+        "name": "Krea Shard",
+        "item_link": "https://bdocodex.com/us/item/735609/"
+    },
+    {
+        "id": "10124",
+        "name": "Krea Shield",
+        "item_link": "https://bdocodex.com/us/item/10124/"
+    },
+    {
+        "id": "14624",
+        "name": "Krea Shuriken",
+        "item_link": "https://bdocodex.com/us/item/14624/"
+    },
+    {
+        "id": "10524",
+        "name": "Krea Talisman",
+        "item_link": "https://bdocodex.com/us/item/10524/"
+    },
+    {
+        "id": "13024",
+        "name": "Krea Trinket",
+        "item_link": "https://bdocodex.com/us/item/13024/"
+    },
+    {
+        "id": "11324",
+        "name": "Krea Vambrace",
+        "item_link": "https://bdocodex.com/us/item/11324/"
+    },
+    {
+        "id": "719024",
+        "name": "Krea Vitclari",
+        "item_link": "https://bdocodex.com/us/item/719024/"
+    },
+    {
+        "id": "735605",
+        "name": "Ladothan Shard",
+        "item_link": "https://bdocodex.com/us/item/735605/"
+    },
+    {
+        "id": "733205",
+        "name": "Lahr Mareca",
+        "item_link": "https://bdocodex.com/us/item/733205/"
+    },
+    {
+        "id": "11303",
+        "name": "Leather Vambrace",
+        "item_link": "https://bdocodex.com/us/item/11303/"
+    },
+    {
+        "id": "735603",
+        "name": "Levathan Shard",
+        "item_link": "https://bdocodex.com/us/item/735603/"
+    },
+    {
+        "id": "730705",
+        "name": "Luka Quoratum",
+        "item_link": "https://bdocodex.com/us/item/730705/"
+    },
+    {
+        "id": "13505",
+        "name": "Mistress Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/13505/"
+    },
+    {
+        "id": "13004",
+        "name": "Needle Trinket",
+        "item_link": "https://bdocodex.com/us/item/13004/"
+    },
+    {
+        "id": "692506",
+        "name": "Neshal Haladie",
+        "item_link": "https://bdocodex.com/us/item/692506/"
+    },
+    {
+        "id": "10704",
+        "name": "Oros Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/10704/"
+    },
+    {
+        "id": "719004",
+        "name": "Oros Vitclari",
+        "item_link": "https://bdocodex.com/us/item/719004/"
+    },
+    {
+        "id": "733203",
+        "name": "Pahr Mareca",
+        "item_link": "https://bdocodex.com/us/item/733203/"
+    },
+    {
+        "id": "10305",
+        "name": "Parrying Dagger",
+        "item_link": "https://bdocodex.com/us/item/10305/"
+    },
+    {
+        "id": "730704",
+        "name": "Pau Quoratum",
+        "item_link": "https://bdocodex.com/us/item/730704/"
+    },
+    {
+        "id": "739905",
+        "name": "Pyunback Do Stave",
+        "item_link": "https://bdocodex.com/us/item/739905/"
+    },
+    {
+        "id": "14503",
+        "name": "Quitar Kunai",
+        "item_link": "https://bdocodex.com/us/item/14503/"
+    },
+    {
+        "id": "14603",
+        "name": "Quitar Shuriken",
+        "item_link": "https://bdocodex.com/us/item/14603/"
+    },
+    {
+        "id": "10505",
+        "name": "Rhik Talisman",
+        "item_link": "https://bdocodex.com/us/item/10505/"
+    },
+    {
+        "id": "741010",
+        "name": "Rosar Binyeo Knife",
+        "item_link": "https://bdocodex.com/us/item/741010/"
+    },
+    {
+        "id": "10325",
+        "name": "Rosar Dagger",
+        "item_link": "https://bdocodex.com/us/item/10325/"
+    },
+    {
+        "id": "739911",
+        "name": "Rosar Do Stave",
+        "item_link": "https://bdocodex.com/us/item/739911/"
+    },
+    {
+        "id": "742510",
+        "name": "Rosar Gravity Cores",
+        "item_link": "https://bdocodex.com/us/item/742510/"
+    },
+    {
+        "id": "692511",
+        "name": "Rosar Haladie",
+        "item_link": "https://bdocodex.com/us/item/692511/"
+    },
+    {
+        "id": "13125",
+        "name": "Rosar Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/13125/"
+    },
+    {
+        "id": "14525",
+        "name": "Rosar Kunai",
+        "item_link": "https://bdocodex.com/us/item/14525/"
+    },
+    {
+        "id": "733210",
+        "name": "Rosar Mareca",
+        "item_link": "https://bdocodex.com/us/item/733210/"
+    },
+    {
+        "id": "13525",
+        "name": "Rosar Noble Sword",
+        "item_link": "https://bdocodex.com/us/item/13525/"
+    },
+    {
+        "id": "10725",
+        "name": "Rosar Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/10725/"
+    },
+    {
+        "id": "730711",
+        "name": "Rosar Quoratum",
+        "item_link": "https://bdocodex.com/us/item/730711/"
+    },
+    {
+        "id": "13825",
+        "name": "Rosar Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/13825/"
+    },
+    {
+        "id": "735610",
+        "name": "Rosar Shard",
+        "item_link": "https://bdocodex.com/us/item/735610/"
+    },
+    {
+        "id": "10125",
+        "name": "Rosar Shield",
+        "item_link": "https://bdocodex.com/us/item/10125/"
+    },
+    {
+        "id": "14625",
+        "name": "Rosar Shuriken",
+        "item_link": "https://bdocodex.com/us/item/14625/"
+    },
+    {
+        "id": "10525",
+        "name": "Rosar Talisman",
+        "item_link": "https://bdocodex.com/us/item/10525/"
+    },
+    {
+        "id": "13025",
+        "name": "Rosar Trinket",
+        "item_link": "https://bdocodex.com/us/item/13025/"
+    },
+    {
+        "id": "11325",
+        "name": "Rosar Vambrace",
+        "item_link": "https://bdocodex.com/us/item/11325/"
+    },
+    {
+        "id": "719025",
+        "name": "Rosar Vitclari",
+        "item_link": "https://bdocodex.com/us/item/719025/"
+    },
+    {
+        "id": "10703",
+        "name": "Saiyer Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/10703/"
+    },
+    {
+        "id": "719003",
+        "name": "Saiyer Vitclari",
+        "item_link": "https://bdocodex.com/us/item/719003/"
+    },
+    {
+        "id": "11304",
+        "name": "Scale Vambrace",
+        "item_link": "https://bdocodex.com/us/item/11304/"
+    },
+    {
+        "id": "13805",
+        "name": "Sharos Ra'ghon",
+        "item_link": "https://bdocodex.com/us/item/13805/"
+    },
+    {
+        "id": "10304",
+        "name": "Steel Dagger",
+        "item_link": "https://bdocodex.com/us/item/10304/"
+    },
+    {
+        "id": "14505",
+        "name": "Tadd Kunai",
+        "item_link": "https://bdocodex.com/us/item/14505/"
+    },
+    {
+        "id": "14605",
+        "name": "Tadd Shuriken",
+        "item_link": "https://bdocodex.com/us/item/14605/"
+    },
+    {
+        "id": "10705",
+        "name": "Theos Ornamental Knot",
+        "item_link": "https://bdocodex.com/us/item/10705/"
+    },
+    {
+        "id": "719005",
+        "name": "Theos Vitclari",
+        "item_link": "https://bdocodex.com/us/item/719005/"
+    },
+    {
+        "id": "10102",
+        "name": "Vangertz Shield",
+        "item_link": "https://bdocodex.com/us/item/10102/"
+    },
+    {
+        "id": "730706",
+        "name": "Vishur Quoratum",
+        "item_link": "https://bdocodex.com/us/item/730706/"
+    },
+    {
+        "id": "735604",
+        "name": "Vourethan Shard",
+        "item_link": "https://bdocodex.com/us/item/735604/"
+    },
+    {
+        "id": "13104",
+        "name": "White Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/13104/"
+    },
+    {
+        "id": "13105",
+        "name": "White Warrior Horn Bow",
+        "item_link": "https://bdocodex.com/us/item/13105/"
+    },
+    {
+        "id": "16380",
+        "name": "[Combat] Trina Lead Bullet",
+        "item_link": "https://bdocodex.com/us/item/16380/"
+    }
+]

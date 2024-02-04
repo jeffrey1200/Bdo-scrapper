@@ -1,0 +1,1722 @@
+[
+    {
+        "id": "715005",
+        "name": "Blackstar Amulet",
+        "item_link": "https://bdocodex.com/us/item/715005/"
+    },
+    {
+        "id": "715007",
+        "name": "Blackstar Axe",
+        "item_link": "https://bdocodex.com/us/item/715007/"
+    },
+    {
+        "id": "690563",
+        "name": "Blackstar Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690563/"
+    },
+    {
+        "id": "715011",
+        "name": "Blackstar Blade",
+        "item_link": "https://bdocodex.com/us/item/715011/"
+    },
+    {
+        "id": "715019",
+        "name": "Blackstar Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/715019/"
+    },
+    {
+        "id": "715021",
+        "name": "Blackstar Crossbow",
+        "item_link": "https://bdocodex.com/us/item/715021/"
+    },
+    {
+        "id": "718616",
+        "name": "Blackstar Florang",
+        "item_link": "https://bdocodex.com/us/item/718616/"
+    },
+    {
+        "id": "740763",
+        "name": "Blackstar Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740763/"
+    },
+    {
+        "id": "715017",
+        "name": "Blackstar Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/715017/"
+    },
+    {
+        "id": "742363",
+        "name": "Blackstar Hammers",
+        "item_link": "https://bdocodex.com/us/item/742363/"
+    },
+    {
+        "id": "715016",
+        "name": "Blackstar Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/715016/"
+    },
+    {
+        "id": "732313",
+        "name": "Blackstar Kyve",
+        "item_link": "https://bdocodex.com/us/item/732313/"
+    },
+    {
+        "id": "715003",
+        "name": "Blackstar Longbow",
+        "item_link": "https://bdocodex.com/us/item/715003/"
+    },
+    {
+        "id": "715001",
+        "name": "Blackstar Longsword",
+        "item_link": "https://bdocodex.com/us/item/715001/"
+    },
+    {
+        "id": "730564",
+        "name": "Blackstar Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730564/"
+    },
+    {
+        "id": "733063",
+        "name": "Blackstar Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733063/"
+    },
+    {
+        "id": "692045",
+        "name": "Blackstar Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692045/"
+    },
+    {
+        "id": "715009",
+        "name": "Blackstar Shortsword",
+        "item_link": "https://bdocodex.com/us/item/715009/"
+    },
+    {
+        "id": "735463",
+        "name": "Blackstar Slayer",
+        "item_link": "https://bdocodex.com/us/item/735463/"
+    },
+    {
+        "id": "715013",
+        "name": "Blackstar Staff",
+        "item_link": "https://bdocodex.com/us/item/715013/"
+    },
+    {
+        "id": "739463",
+        "name": "Blackstar Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739463/"
+    },
+    {
+        "id": "736017",
+        "name": "Godr-Ayed Amulet",
+        "item_link": "https://bdocodex.com/us/item/736017/"
+    },
+    {
+        "id": "736018",
+        "name": "Godr-Ayed Axe",
+        "item_link": "https://bdocodex.com/us/item/736018/"
+    },
+    {
+        "id": "736027",
+        "name": "Godr-Ayed Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/736027/"
+    },
+    {
+        "id": "736020",
+        "name": "Godr-Ayed Blade",
+        "item_link": "https://bdocodex.com/us/item/736020/"
+    },
+    {
+        "id": "736024",
+        "name": "Godr-Ayed Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/736024/"
+    },
+    {
+        "id": "736025",
+        "name": "Godr-Ayed Crossbow",
+        "item_link": "https://bdocodex.com/us/item/736025/"
+    },
+    {
+        "id": "736026",
+        "name": "Godr-Ayed Florang",
+        "item_link": "https://bdocodex.com/us/item/736026/"
+    },
+    {
+        "id": "736034",
+        "name": "Godr-Ayed Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/736034/"
+    },
+    {
+        "id": "736023",
+        "name": "Godr-Ayed Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/736023/"
+    },
+    {
+        "id": "736035",
+        "name": "Godr-Ayed Hammers",
+        "item_link": "https://bdocodex.com/us/item/736035/"
+    },
+    {
+        "id": "736022",
+        "name": "Godr-Ayed Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/736022/"
+    },
+    {
+        "id": "736030",
+        "name": "Godr-Ayed Kyve",
+        "item_link": "https://bdocodex.com/us/item/736030/"
+    },
+    {
+        "id": "736016",
+        "name": "Godr-Ayed Longbow",
+        "item_link": "https://bdocodex.com/us/item/736016/"
+    },
+    {
+        "id": "736015",
+        "name": "Godr-Ayed Longsword",
+        "item_link": "https://bdocodex.com/us/item/736015/"
+    },
+    {
+        "id": "736029",
+        "name": "Godr-Ayed Morning Star",
+        "item_link": "https://bdocodex.com/us/item/736029/"
+    },
+    {
+        "id": "736031",
+        "name": "Godr-Ayed Serenaca",
+        "item_link": "https://bdocodex.com/us/item/736031/"
+    },
+    {
+        "id": "736028",
+        "name": "Godr-Ayed Shamshir",
+        "item_link": "https://bdocodex.com/us/item/736028/"
+    },
+    {
+        "id": "736019",
+        "name": "Godr-Ayed Shortsword",
+        "item_link": "https://bdocodex.com/us/item/736019/"
+    },
+    {
+        "id": "736032",
+        "name": "Godr-Ayed Slayer",
+        "item_link": "https://bdocodex.com/us/item/736032/"
+    },
+    {
+        "id": "736021",
+        "name": "Godr-Ayed Staff",
+        "item_link": "https://bdocodex.com/us/item/736021/"
+    },
+    {
+        "id": "736033",
+        "name": "Godr-Ayed Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/736033/"
+    },
+    {
+        "id": "56519",
+        "name": "[Hunting] Marni Sniper Rifle",
+        "item_link": "https://bdocodex.com/us/item/56519/"
+    },
+    {
+        "id": "56220",
+        "name": "[Hunting] Master Matchlock",
+        "item_link": "https://bdocodex.com/us/item/56220/"
+    },
+    {
+        "id": "10410",
+        "name": "Kzarka Amulet",
+        "item_link": "https://bdocodex.com/us/item/10410/"
+    },
+    {
+        "id": "10610",
+        "name": "Kzarka Axe",
+        "item_link": "https://bdocodex.com/us/item/10610/"
+    },
+    {
+        "id": "690513",
+        "name": "Kzarka Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690513/"
+    },
+    {
+        "id": "13310",
+        "name": "Kzarka Blade",
+        "item_link": "https://bdocodex.com/us/item/13310/"
+    },
+    {
+        "id": "13410",
+        "name": "Kzarka Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13410/"
+    },
+    {
+        "id": "13710",
+        "name": "Kzarka Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13710/"
+    },
+    {
+        "id": "718510",
+        "name": "Kzarka Florang",
+        "item_link": "https://bdocodex.com/us/item/718510/"
+    },
+    {
+        "id": "740710",
+        "name": "Kzarka Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740710/"
+    },
+    {
+        "id": "11210",
+        "name": "Kzarka Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11210/"
+    },
+    {
+        "id": "742310",
+        "name": "Kzarka Hammers",
+        "item_link": "https://bdocodex.com/us/item/742310/"
+    },
+    {
+        "id": "11360",
+        "name": "Kzarka Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11360/"
+    },
+    {
+        "id": "732260",
+        "name": "Kzarka Kyve",
+        "item_link": "https://bdocodex.com/us/item/732260/"
+    },
+    {
+        "id": "10210",
+        "name": "Kzarka Longbow",
+        "item_link": "https://bdocodex.com/us/item/10210/"
+    },
+    {
+        "id": "10010",
+        "name": "Kzarka Longsword",
+        "item_link": "https://bdocodex.com/us/item/10010/"
+    },
+    {
+        "id": "730511",
+        "name": "Kzarka Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730511/"
+    },
+    {
+        "id": "733010",
+        "name": "Kzarka Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733010/"
+    },
+    {
+        "id": "692011",
+        "name": "Kzarka Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692011/"
+    },
+    {
+        "id": "13210",
+        "name": "Kzarka Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13210/"
+    },
+    {
+        "id": "735410",
+        "name": "Kzarka Slayer",
+        "item_link": "https://bdocodex.com/us/item/735410/"
+    },
+    {
+        "id": "14410",
+        "name": "Kzarka Staff",
+        "item_link": "https://bdocodex.com/us/item/14410/"
+    },
+    {
+        "id": "739410",
+        "name": "Kzarka Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739410/"
+    },
+    {
+        "id": "10486",
+        "name": "Offin Tett's Radiant Amulet",
+        "item_link": "https://bdocodex.com/us/item/10486/"
+    },
+    {
+        "id": "10686",
+        "name": "Offin Tett's Radiant Axe",
+        "item_link": "https://bdocodex.com/us/item/10686/"
+    },
+    {
+        "id": "690541",
+        "name": "Offin Tett's Radiant Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690541/"
+    },
+    {
+        "id": "13386",
+        "name": "Offin Tett's Radiant Blade",
+        "item_link": "https://bdocodex.com/us/item/13386/"
+    },
+    {
+        "id": "13487",
+        "name": "Offin Tett's Radiant Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13487/"
+    },
+    {
+        "id": "13786",
+        "name": "Offin Tett's Radiant Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13786/"
+    },
+    {
+        "id": "718586",
+        "name": "Offin Tett's Radiant Florang",
+        "item_link": "https://bdocodex.com/us/item/718586/"
+    },
+    {
+        "id": "740738",
+        "name": "Offin Tett's Radiant Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740738/"
+    },
+    {
+        "id": "11287",
+        "name": "Offin Tett's Radiant Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11287/"
+    },
+    {
+        "id": "742338",
+        "name": "Offin Tett's Radiant Hammers",
+        "item_link": "https://bdocodex.com/us/item/742338/"
+    },
+    {
+        "id": "11436",
+        "name": "Offin Tett's Radiant Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11436/"
+    },
+    {
+        "id": "732288",
+        "name": "Offin Tett's Radiant Kyve",
+        "item_link": "https://bdocodex.com/us/item/732288/"
+    },
+    {
+        "id": "10286",
+        "name": "Offin Tett's Radiant Longbow",
+        "item_link": "https://bdocodex.com/us/item/10286/"
+    },
+    {
+        "id": "10086",
+        "name": "Offin Tett's Radiant Longsword",
+        "item_link": "https://bdocodex.com/us/item/10086/"
+    },
+    {
+        "id": "730539",
+        "name": "Offin Tett's Radiant Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730539/"
+    },
+    {
+        "id": "733038",
+        "name": "Offin Tett's Radiant Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733038/"
+    },
+    {
+        "id": "692039",
+        "name": "Offin Tett's Radiant Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692039/"
+    },
+    {
+        "id": "13286",
+        "name": "Offin Tett's Radiant Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13286/"
+    },
+    {
+        "id": "735438",
+        "name": "Offin Tett's Radiant Slayer",
+        "item_link": "https://bdocodex.com/us/item/735438/"
+    },
+    {
+        "id": "14486",
+        "name": "Offin Tett's Radiant Staff",
+        "item_link": "https://bdocodex.com/us/item/14486/"
+    },
+    {
+        "id": "739438",
+        "name": "Offin Tett's Radiant Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739438/"
+    },
+    {
+        "id": "16161",
+        "name": "[Hunting] Artisan Matchlock",
+        "item_link": "https://bdocodex.com/us/item/16161/"
+    },
+    {
+        "id": "56133",
+        "name": "[Hunting] Sniper Rifle",
+        "item_link": "https://bdocodex.com/us/item/56133/"
+    },
+    {
+        "id": "10409",
+        "name": "Liverto Amulet",
+        "item_link": "https://bdocodex.com/us/item/10409/"
+    },
+    {
+        "id": "10609",
+        "name": "Liverto Axe",
+        "item_link": "https://bdocodex.com/us/item/10609/"
+    },
+    {
+        "id": "690512",
+        "name": "Liverto Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690512/"
+    },
+    {
+        "id": "13309",
+        "name": "Liverto Blade",
+        "item_link": "https://bdocodex.com/us/item/13309/"
+    },
+    {
+        "id": "13409",
+        "name": "Liverto Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13409/"
+    },
+    {
+        "id": "13709",
+        "name": "Liverto Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13709/"
+    },
+    {
+        "id": "718509",
+        "name": "Liverto Florang",
+        "item_link": "https://bdocodex.com/us/item/718509/"
+    },
+    {
+        "id": "740709",
+        "name": "Liverto Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740709/"
+    },
+    {
+        "id": "11209",
+        "name": "Liverto Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11209/"
+    },
+    {
+        "id": "742309",
+        "name": "Liverto Hammers",
+        "item_link": "https://bdocodex.com/us/item/742309/"
+    },
+    {
+        "id": "11359",
+        "name": "Liverto Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11359/"
+    },
+    {
+        "id": "732259",
+        "name": "Liverto Kyve",
+        "item_link": "https://bdocodex.com/us/item/732259/"
+    },
+    {
+        "id": "10209",
+        "name": "Liverto Longbow",
+        "item_link": "https://bdocodex.com/us/item/10209/"
+    },
+    {
+        "id": "10009",
+        "name": "Liverto Longsword",
+        "item_link": "https://bdocodex.com/us/item/10009/"
+    },
+    {
+        "id": "730510",
+        "name": "Liverto Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730510/"
+    },
+    {
+        "id": "733009",
+        "name": "Liverto Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733009/"
+    },
+    {
+        "id": "692010",
+        "name": "Liverto Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692010/"
+    },
+    {
+        "id": "13209",
+        "name": "Liverto Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13209/"
+    },
+    {
+        "id": "735409",
+        "name": "Liverto Slayer",
+        "item_link": "https://bdocodex.com/us/item/735409/"
+    },
+    {
+        "id": "14409",
+        "name": "Liverto Staff",
+        "item_link": "https://bdocodex.com/us/item/14409/"
+    },
+    {
+        "id": "739409",
+        "name": "Liverto Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739409/"
+    },
+    {
+        "id": "10472",
+        "name": "Ultimate Styd Amulet",
+        "item_link": "https://bdocodex.com/us/item/10472/"
+    },
+    {
+        "id": "10672",
+        "name": "Ultimate Styd Axe",
+        "item_link": "https://bdocodex.com/us/item/10672/"
+    },
+    {
+        "id": "690521",
+        "name": "Ultimate Styd Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690521/"
+    },
+    {
+        "id": "13372",
+        "name": "Ultimate Styd Blade",
+        "item_link": "https://bdocodex.com/us/item/13372/"
+    },
+    {
+        "id": "13423",
+        "name": "Ultimate Styd Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13423/"
+    },
+    {
+        "id": "13772",
+        "name": "Ultimate Styd Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13772/"
+    },
+    {
+        "id": "718523",
+        "name": "Ultimate Styd Florang",
+        "item_link": "https://bdocodex.com/us/item/718523/"
+    },
+    {
+        "id": "740718",
+        "name": "Ultimate Styd Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740718/"
+    },
+    {
+        "id": "11223",
+        "name": "Ultimate Styd Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11223/"
+    },
+    {
+        "id": "742318",
+        "name": "Ultimate Styd Hammers",
+        "item_link": "https://bdocodex.com/us/item/742318/"
+    },
+    {
+        "id": "11373",
+        "name": "Ultimate Styd Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11373/"
+    },
+    {
+        "id": "732268",
+        "name": "Ultimate Styd Kyve",
+        "item_link": "https://bdocodex.com/us/item/732268/"
+    },
+    {
+        "id": "10272",
+        "name": "Ultimate Styd Longbow",
+        "item_link": "https://bdocodex.com/us/item/10272/"
+    },
+    {
+        "id": "10072",
+        "name": "Ultimate Styd Longsword",
+        "item_link": "https://bdocodex.com/us/item/10072/"
+    },
+    {
+        "id": "730519",
+        "name": "Ultimate Styd Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730519/"
+    },
+    {
+        "id": "733018",
+        "name": "Ultimate Styd Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733018/"
+    },
+    {
+        "id": "692019",
+        "name": "Ultimate Styd Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692019/"
+    },
+    {
+        "id": "13272",
+        "name": "Ultimate Styd Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13272/"
+    },
+    {
+        "id": "735418",
+        "name": "Ultimate Styd Slayer",
+        "item_link": "https://bdocodex.com/us/item/735418/"
+    },
+    {
+        "id": "14472",
+        "name": "Ultimate Styd Staff",
+        "item_link": "https://bdocodex.com/us/item/14472/"
+    },
+    {
+        "id": "739418",
+        "name": "Ultimate Styd Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739418/"
+    },
+    {
+        "id": "16160",
+        "name": "[Hunting] Professional Matchlock",
+        "item_link": "https://bdocodex.com/us/item/16160/"
+    },
+    {
+        "id": "16159",
+        "name": "[Hunting] Skilled Matchlock",
+        "item_link": "https://bdocodex.com/us/item/16159/"
+    },
+    {
+        "id": "10406",
+        "name": "Ain Amulet",
+        "item_link": "https://bdocodex.com/us/item/10406/"
+    },
+    {
+        "id": "10606",
+        "name": "Ain Axe",
+        "item_link": "https://bdocodex.com/us/item/10606/"
+    },
+    {
+        "id": "690509",
+        "name": "Ain Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690509/"
+    },
+    {
+        "id": "13306",
+        "name": "Ain Blade",
+        "item_link": "https://bdocodex.com/us/item/13306/"
+    },
+    {
+        "id": "13406",
+        "name": "Ain Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13406/"
+    },
+    {
+        "id": "13706",
+        "name": "Ain Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13706/"
+    },
+    {
+        "id": "718506",
+        "name": "Ain Florang",
+        "item_link": "https://bdocodex.com/us/item/718506/"
+    },
+    {
+        "id": "740706",
+        "name": "Ain Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740706/"
+    },
+    {
+        "id": "11206",
+        "name": "Ain Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11206/"
+    },
+    {
+        "id": "742306",
+        "name": "Ain Hammers",
+        "item_link": "https://bdocodex.com/us/item/742306/"
+    },
+    {
+        "id": "11356",
+        "name": "Ain Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11356/"
+    },
+    {
+        "id": "732256",
+        "name": "Ain Kyve",
+        "item_link": "https://bdocodex.com/us/item/732256/"
+    },
+    {
+        "id": "10206",
+        "name": "Ain Longbow",
+        "item_link": "https://bdocodex.com/us/item/10206/"
+    },
+    {
+        "id": "10006",
+        "name": "Ain Longsword",
+        "item_link": "https://bdocodex.com/us/item/10006/"
+    },
+    {
+        "id": "730507",
+        "name": "Ain Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730507/"
+    },
+    {
+        "id": "733006",
+        "name": "Ain Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733006/"
+    },
+    {
+        "id": "692007",
+        "name": "Ain Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692007/"
+    },
+    {
+        "id": "13206",
+        "name": "Ain Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13206/"
+    },
+    {
+        "id": "735406",
+        "name": "Ain Slayer",
+        "item_link": "https://bdocodex.com/us/item/735406/"
+    },
+    {
+        "id": "14406",
+        "name": "Ain Staff",
+        "item_link": "https://bdocodex.com/us/item/14406/"
+    },
+    {
+        "id": "739406",
+        "name": "Ain Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739406/"
+    },
+    {
+        "id": "10405",
+        "name": "Azwell Amulet",
+        "item_link": "https://bdocodex.com/us/item/10405/"
+    },
+    {
+        "id": "10605",
+        "name": "Azwell Axe",
+        "item_link": "https://bdocodex.com/us/item/10605/"
+    },
+    {
+        "id": "690508",
+        "name": "Azwell Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690508/"
+    },
+    {
+        "id": "13305",
+        "name": "Azwell Blade",
+        "item_link": "https://bdocodex.com/us/item/13305/"
+    },
+    {
+        "id": "13405",
+        "name": "Azwell Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13405/"
+    },
+    {
+        "id": "13705",
+        "name": "Azwell Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13705/"
+    },
+    {
+        "id": "718505",
+        "name": "Azwell Florang",
+        "item_link": "https://bdocodex.com/us/item/718505/"
+    },
+    {
+        "id": "740705",
+        "name": "Azwell Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740705/"
+    },
+    {
+        "id": "11205",
+        "name": "Azwell Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11205/"
+    },
+    {
+        "id": "742305",
+        "name": "Azwell Hammers",
+        "item_link": "https://bdocodex.com/us/item/742305/"
+    },
+    {
+        "id": "11355",
+        "name": "Azwell Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11355/"
+    },
+    {
+        "id": "732255",
+        "name": "Azwell Kyve",
+        "item_link": "https://bdocodex.com/us/item/732255/"
+    },
+    {
+        "id": "10205",
+        "name": "Azwell Longbow",
+        "item_link": "https://bdocodex.com/us/item/10205/"
+    },
+    {
+        "id": "10005",
+        "name": "Azwell Longsword",
+        "item_link": "https://bdocodex.com/us/item/10005/"
+    },
+    {
+        "id": "730506",
+        "name": "Azwell Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730506/"
+    },
+    {
+        "id": "733005",
+        "name": "Azwell Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733005/"
+    },
+    {
+        "id": "692006",
+        "name": "Azwell Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692006/"
+    },
+    {
+        "id": "13205",
+        "name": "Azwell Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13205/"
+    },
+    {
+        "id": "735405",
+        "name": "Azwell Slayer",
+        "item_link": "https://bdocodex.com/us/item/735405/"
+    },
+    {
+        "id": "14405",
+        "name": "Azwell Staff",
+        "item_link": "https://bdocodex.com/us/item/14405/"
+    },
+    {
+        "id": "739405",
+        "name": "Azwell Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739405/"
+    },
+    {
+        "id": "10413",
+        "name": "Bares Amulet",
+        "item_link": "https://bdocodex.com/us/item/10413/"
+    },
+    {
+        "id": "10613",
+        "name": "Bares Axe",
+        "item_link": "https://bdocodex.com/us/item/10613/"
+    },
+    {
+        "id": "690516",
+        "name": "Bares Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690516/"
+    },
+    {
+        "id": "13313",
+        "name": "Bares Blade",
+        "item_link": "https://bdocodex.com/us/item/13313/"
+    },
+    {
+        "id": "13413",
+        "name": "Bares Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13413/"
+    },
+    {
+        "id": "13713",
+        "name": "Bares Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13713/"
+    },
+    {
+        "id": "718513",
+        "name": "Bares Florang",
+        "item_link": "https://bdocodex.com/us/item/718513/"
+    },
+    {
+        "id": "740713",
+        "name": "Bares Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740713/"
+    },
+    {
+        "id": "11213",
+        "name": "Bares Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11213/"
+    },
+    {
+        "id": "742313",
+        "name": "Bares Hammers",
+        "item_link": "https://bdocodex.com/us/item/742313/"
+    },
+    {
+        "id": "11363",
+        "name": "Bares Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11363/"
+    },
+    {
+        "id": "732263",
+        "name": "Bares Kyve",
+        "item_link": "https://bdocodex.com/us/item/732263/"
+    },
+    {
+        "id": "10213",
+        "name": "Bares Longbow",
+        "item_link": "https://bdocodex.com/us/item/10213/"
+    },
+    {
+        "id": "10013",
+        "name": "Bares Longsword",
+        "item_link": "https://bdocodex.com/us/item/10013/"
+    },
+    {
+        "id": "730514",
+        "name": "Bares Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730514/"
+    },
+    {
+        "id": "733013",
+        "name": "Bares Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733013/"
+    },
+    {
+        "id": "692014",
+        "name": "Bares Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692014/"
+    },
+    {
+        "id": "13213",
+        "name": "Bares Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13213/"
+    },
+    {
+        "id": "735413",
+        "name": "Bares Slayer",
+        "item_link": "https://bdocodex.com/us/item/735413/"
+    },
+    {
+        "id": "14413",
+        "name": "Bares Staff",
+        "item_link": "https://bdocodex.com/us/item/14413/"
+    },
+    {
+        "id": "739413",
+        "name": "Bares Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739413/"
+    },
+    {
+        "id": "10403",
+        "name": "Elsh Amulet",
+        "item_link": "https://bdocodex.com/us/item/10403/"
+    },
+    {
+        "id": "10603",
+        "name": "Elsh Axe",
+        "item_link": "https://bdocodex.com/us/item/10603/"
+    },
+    {
+        "id": "690506",
+        "name": "Elsh Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690506/"
+    },
+    {
+        "id": "13303",
+        "name": "Elsh Blade",
+        "item_link": "https://bdocodex.com/us/item/13303/"
+    },
+    {
+        "id": "13403",
+        "name": "Elsh Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13403/"
+    },
+    {
+        "id": "13703",
+        "name": "Elsh Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13703/"
+    },
+    {
+        "id": "718503",
+        "name": "Elsh Florang",
+        "item_link": "https://bdocodex.com/us/item/718503/"
+    },
+    {
+        "id": "740703",
+        "name": "Elsh Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740703/"
+    },
+    {
+        "id": "11203",
+        "name": "Elsh Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11203/"
+    },
+    {
+        "id": "742303",
+        "name": "Elsh Hammers",
+        "item_link": "https://bdocodex.com/us/item/742303/"
+    },
+    {
+        "id": "11353",
+        "name": "Elsh Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11353/"
+    },
+    {
+        "id": "732253",
+        "name": "Elsh Kyve",
+        "item_link": "https://bdocodex.com/us/item/732253/"
+    },
+    {
+        "id": "10203",
+        "name": "Elsh Longbow",
+        "item_link": "https://bdocodex.com/us/item/10203/"
+    },
+    {
+        "id": "10003",
+        "name": "Elsh Longsword",
+        "item_link": "https://bdocodex.com/us/item/10003/"
+    },
+    {
+        "id": "730504",
+        "name": "Elsh Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730504/"
+    },
+    {
+        "id": "733003",
+        "name": "Elsh Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733003/"
+    },
+    {
+        "id": "692004",
+        "name": "Elsh Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692004/"
+    },
+    {
+        "id": "13203",
+        "name": "Elsh Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13203/"
+    },
+    {
+        "id": "735403",
+        "name": "Elsh Slayer",
+        "item_link": "https://bdocodex.com/us/item/735403/"
+    },
+    {
+        "id": "14403",
+        "name": "Elsh Staff",
+        "item_link": "https://bdocodex.com/us/item/14403/"
+    },
+    {
+        "id": "739403",
+        "name": "Elsh Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739403/"
+    },
+    {
+        "id": "10412",
+        "name": "Kalis Amulet",
+        "item_link": "https://bdocodex.com/us/item/10412/"
+    },
+    {
+        "id": "10612",
+        "name": "Kalis Axe",
+        "item_link": "https://bdocodex.com/us/item/10612/"
+    },
+    {
+        "id": "690515",
+        "name": "Kalis Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690515/"
+    },
+    {
+        "id": "13312",
+        "name": "Kalis Blade",
+        "item_link": "https://bdocodex.com/us/item/13312/"
+    },
+    {
+        "id": "13412",
+        "name": "Kalis Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13412/"
+    },
+    {
+        "id": "13712",
+        "name": "Kalis Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13712/"
+    },
+    {
+        "id": "718512",
+        "name": "Kalis Florang",
+        "item_link": "https://bdocodex.com/us/item/718512/"
+    },
+    {
+        "id": "740712",
+        "name": "Kalis Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740712/"
+    },
+    {
+        "id": "11212",
+        "name": "Kalis Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11212/"
+    },
+    {
+        "id": "742312",
+        "name": "Kalis Hammers",
+        "item_link": "https://bdocodex.com/us/item/742312/"
+    },
+    {
+        "id": "11362",
+        "name": "Kalis Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11362/"
+    },
+    {
+        "id": "732262",
+        "name": "Kalis Kyve",
+        "item_link": "https://bdocodex.com/us/item/732262/"
+    },
+    {
+        "id": "10212",
+        "name": "Kalis Longbow",
+        "item_link": "https://bdocodex.com/us/item/10212/"
+    },
+    {
+        "id": "10012",
+        "name": "Kalis Longsword",
+        "item_link": "https://bdocodex.com/us/item/10012/"
+    },
+    {
+        "id": "730513",
+        "name": "Kalis Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730513/"
+    },
+    {
+        "id": "733012",
+        "name": "Kalis Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733012/"
+    },
+    {
+        "id": "692013",
+        "name": "Kalis Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692013/"
+    },
+    {
+        "id": "13212",
+        "name": "Kalis Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13212/"
+    },
+    {
+        "id": "735412",
+        "name": "Kalis Slayer",
+        "item_link": "https://bdocodex.com/us/item/735412/"
+    },
+    {
+        "id": "14412",
+        "name": "Kalis Staff",
+        "item_link": "https://bdocodex.com/us/item/14412/"
+    },
+    {
+        "id": "739412",
+        "name": "Kalis Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739412/"
+    },
+    {
+        "id": "10456",
+        "name": "Krea Amulet",
+        "item_link": "https://bdocodex.com/us/item/10456/"
+    },
+    {
+        "id": "10656",
+        "name": "Krea Axe",
+        "item_link": "https://bdocodex.com/us/item/10656/"
+    },
+    {
+        "id": "690518",
+        "name": "Krea Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690518/"
+    },
+    {
+        "id": "13356",
+        "name": "Krea Blade",
+        "item_link": "https://bdocodex.com/us/item/13356/"
+    },
+    {
+        "id": "13420",
+        "name": "Krea Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13420/"
+    },
+    {
+        "id": "13756",
+        "name": "Krea Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13756/"
+    },
+    {
+        "id": "718520",
+        "name": "Krea Florang",
+        "item_link": "https://bdocodex.com/us/item/718520/"
+    },
+    {
+        "id": "740715",
+        "name": "Krea Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740715/"
+    },
+    {
+        "id": "11220",
+        "name": "Krea Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11220/"
+    },
+    {
+        "id": "742315",
+        "name": "Krea Hammers",
+        "item_link": "https://bdocodex.com/us/item/742315/"
+    },
+    {
+        "id": "11370",
+        "name": "Krea Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11370/"
+    },
+    {
+        "id": "732265",
+        "name": "Krea Kyve",
+        "item_link": "https://bdocodex.com/us/item/732265/"
+    },
+    {
+        "id": "10256",
+        "name": "Krea Longbow",
+        "item_link": "https://bdocodex.com/us/item/10256/"
+    },
+    {
+        "id": "10056",
+        "name": "Krea Longsword",
+        "item_link": "https://bdocodex.com/us/item/10056/"
+    },
+    {
+        "id": "730516",
+        "name": "Krea Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730516/"
+    },
+    {
+        "id": "733015",
+        "name": "Krea Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733015/"
+    },
+    {
+        "id": "692016",
+        "name": "Krea Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692016/"
+    },
+    {
+        "id": "13256",
+        "name": "Krea Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13256/"
+    },
+    {
+        "id": "735415",
+        "name": "Krea Slayer",
+        "item_link": "https://bdocodex.com/us/item/735415/"
+    },
+    {
+        "id": "14456",
+        "name": "Krea Staff",
+        "item_link": "https://bdocodex.com/us/item/14456/"
+    },
+    {
+        "id": "739415",
+        "name": "Krea Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739415/"
+    },
+    {
+        "id": "10457",
+        "name": "Rosar Amulet",
+        "item_link": "https://bdocodex.com/us/item/10457/"
+    },
+    {
+        "id": "10657",
+        "name": "Rosar Axe",
+        "item_link": "https://bdocodex.com/us/item/10657/"
+    },
+    {
+        "id": "690519",
+        "name": "Rosar Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690519/"
+    },
+    {
+        "id": "13357",
+        "name": "Rosar Blade",
+        "item_link": "https://bdocodex.com/us/item/13357/"
+    },
+    {
+        "id": "13421",
+        "name": "Rosar Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13421/"
+    },
+    {
+        "id": "13757",
+        "name": "Rosar Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13757/"
+    },
+    {
+        "id": "718521",
+        "name": "Rosar Florang",
+        "item_link": "https://bdocodex.com/us/item/718521/"
+    },
+    {
+        "id": "740716",
+        "name": "Rosar Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740716/"
+    },
+    {
+        "id": "11221",
+        "name": "Rosar Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11221/"
+    },
+    {
+        "id": "742316",
+        "name": "Rosar Hammers",
+        "item_link": "https://bdocodex.com/us/item/742316/"
+    },
+    {
+        "id": "11371",
+        "name": "Rosar Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11371/"
+    },
+    {
+        "id": "732266",
+        "name": "Rosar Kyve",
+        "item_link": "https://bdocodex.com/us/item/732266/"
+    },
+    {
+        "id": "10257",
+        "name": "Rosar Longbow",
+        "item_link": "https://bdocodex.com/us/item/10257/"
+    },
+    {
+        "id": "10057",
+        "name": "Rosar Longsword",
+        "item_link": "https://bdocodex.com/us/item/10057/"
+    },
+    {
+        "id": "730517",
+        "name": "Rosar Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730517/"
+    },
+    {
+        "id": "733016",
+        "name": "Rosar Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733016/"
+    },
+    {
+        "id": "692017",
+        "name": "Rosar Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692017/"
+    },
+    {
+        "id": "13257",
+        "name": "Rosar Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13257/"
+    },
+    {
+        "id": "735416",
+        "name": "Rosar Slayer",
+        "item_link": "https://bdocodex.com/us/item/735416/"
+    },
+    {
+        "id": "14457",
+        "name": "Rosar Staff",
+        "item_link": "https://bdocodex.com/us/item/14457/"
+    },
+    {
+        "id": "739416",
+        "name": "Rosar Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739416/"
+    },
+    {
+        "id": "10407",
+        "name": "Seleth Amulet",
+        "item_link": "https://bdocodex.com/us/item/10407/"
+    },
+    {
+        "id": "10607",
+        "name": "Seleth Axe",
+        "item_link": "https://bdocodex.com/us/item/10607/"
+    },
+    {
+        "id": "690510",
+        "name": "Seleth Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690510/"
+    },
+    {
+        "id": "13307",
+        "name": "Seleth Blade",
+        "item_link": "https://bdocodex.com/us/item/13307/"
+    },
+    {
+        "id": "13407",
+        "name": "Seleth Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13407/"
+    },
+    {
+        "id": "13707",
+        "name": "Seleth Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13707/"
+    },
+    {
+        "id": "718507",
+        "name": "Seleth Florang",
+        "item_link": "https://bdocodex.com/us/item/718507/"
+    },
+    {
+        "id": "740707",
+        "name": "Seleth Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740707/"
+    },
+    {
+        "id": "11207",
+        "name": "Seleth Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11207/"
+    },
+    {
+        "id": "742307",
+        "name": "Seleth Hammers",
+        "item_link": "https://bdocodex.com/us/item/742307/"
+    },
+    {
+        "id": "11357",
+        "name": "Seleth Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11357/"
+    },
+    {
+        "id": "732257",
+        "name": "Seleth Kyve",
+        "item_link": "https://bdocodex.com/us/item/732257/"
+    },
+    {
+        "id": "10207",
+        "name": "Seleth Longbow",
+        "item_link": "https://bdocodex.com/us/item/10207/"
+    },
+    {
+        "id": "10007",
+        "name": "Seleth Longsword",
+        "item_link": "https://bdocodex.com/us/item/10007/"
+    },
+    {
+        "id": "730508",
+        "name": "Seleth Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730508/"
+    },
+    {
+        "id": "733007",
+        "name": "Seleth Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733007/"
+    },
+    {
+        "id": "692008",
+        "name": "Seleth Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692008/"
+    },
+    {
+        "id": "13207",
+        "name": "Seleth Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13207/"
+    },
+    {
+        "id": "735407",
+        "name": "Seleth Slayer",
+        "item_link": "https://bdocodex.com/us/item/735407/"
+    },
+    {
+        "id": "14407",
+        "name": "Seleth Staff",
+        "item_link": "https://bdocodex.com/us/item/14407/"
+    },
+    {
+        "id": "739407",
+        "name": "Seleth Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739407/"
+    },
+    {
+        "id": "10471",
+        "name": "Styd Amulet",
+        "item_link": "https://bdocodex.com/us/item/10471/"
+    },
+    {
+        "id": "10671",
+        "name": "Styd Axe",
+        "item_link": "https://bdocodex.com/us/item/10671/"
+    },
+    {
+        "id": "690520",
+        "name": "Styd Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690520/"
+    },
+    {
+        "id": "13371",
+        "name": "Styd Blade",
+        "item_link": "https://bdocodex.com/us/item/13371/"
+    },
+    {
+        "id": "13422",
+        "name": "Styd Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13422/"
+    },
+    {
+        "id": "13771",
+        "name": "Styd Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13771/"
+    },
+    {
+        "id": "718522",
+        "name": "Styd Florang",
+        "item_link": "https://bdocodex.com/us/item/718522/"
+    },
+    {
+        "id": "740717",
+        "name": "Styd Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740717/"
+    },
+    {
+        "id": "11222",
+        "name": "Styd Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11222/"
+    },
+    {
+        "id": "742317",
+        "name": "Styd Hammers",
+        "item_link": "https://bdocodex.com/us/item/742317/"
+    },
+    {
+        "id": "11372",
+        "name": "Styd Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11372/"
+    },
+    {
+        "id": "732267",
+        "name": "Styd Kyve",
+        "item_link": "https://bdocodex.com/us/item/732267/"
+    },
+    {
+        "id": "10271",
+        "name": "Styd Longbow",
+        "item_link": "https://bdocodex.com/us/item/10271/"
+    },
+    {
+        "id": "10071",
+        "name": "Styd Longsword",
+        "item_link": "https://bdocodex.com/us/item/10071/"
+    },
+    {
+        "id": "730518",
+        "name": "Styd Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730518/"
+    },
+    {
+        "id": "733017",
+        "name": "Styd Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733017/"
+    },
+    {
+        "id": "692018",
+        "name": "Styd Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692018/"
+    },
+    {
+        "id": "13271",
+        "name": "Styd Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13271/"
+    },
+    {
+        "id": "735417",
+        "name": "Styd Slayer",
+        "item_link": "https://bdocodex.com/us/item/735417/"
+    },
+    {
+        "id": "14471",
+        "name": "Styd Staff",
+        "item_link": "https://bdocodex.com/us/item/14471/"
+    },
+    {
+        "id": "739417",
+        "name": "Styd Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739417/"
+    },
+    {
+        "id": "10414",
+        "name": "Yuria Amulet",
+        "item_link": "https://bdocodex.com/us/item/10414/"
+    },
+    {
+        "id": "10614",
+        "name": "Yuria Axe",
+        "item_link": "https://bdocodex.com/us/item/10614/"
+    },
+    {
+        "id": "690517",
+        "name": "Yuria Battle Axe",
+        "item_link": "https://bdocodex.com/us/item/690517/"
+    },
+    {
+        "id": "13314",
+        "name": "Yuria Blade",
+        "item_link": "https://bdocodex.com/us/item/13314/"
+    },
+    {
+        "id": "13414",
+        "name": "Yuria Crescent Pendulum",
+        "item_link": "https://bdocodex.com/us/item/13414/"
+    },
+    {
+        "id": "13714",
+        "name": "Yuria Crossbow",
+        "item_link": "https://bdocodex.com/us/item/13714/"
+    },
+    {
+        "id": "718514",
+        "name": "Yuria Florang",
+        "item_link": "https://bdocodex.com/us/item/718514/"
+    },
+    {
+        "id": "740714",
+        "name": "Yuria Foxspirit Charm",
+        "item_link": "https://bdocodex.com/us/item/740714/"
+    },
+    {
+        "id": "11214",
+        "name": "Yuria Gauntlet",
+        "item_link": "https://bdocodex.com/us/item/11214/"
+    },
+    {
+        "id": "742314",
+        "name": "Yuria Hammers",
+        "item_link": "https://bdocodex.com/us/item/742314/"
+    },
+    {
+        "id": "11364",
+        "name": "Yuria Kriegsmesser",
+        "item_link": "https://bdocodex.com/us/item/11364/"
+    },
+    {
+        "id": "732264",
+        "name": "Yuria Kyve",
+        "item_link": "https://bdocodex.com/us/item/732264/"
+    },
+    {
+        "id": "10214",
+        "name": "Yuria Longbow",
+        "item_link": "https://bdocodex.com/us/item/10214/"
+    },
+    {
+        "id": "10014",
+        "name": "Yuria Longsword",
+        "item_link": "https://bdocodex.com/us/item/10014/"
+    },
+    {
+        "id": "730515",
+        "name": "Yuria Morning Star",
+        "item_link": "https://bdocodex.com/us/item/730515/"
+    },
+    {
+        "id": "733014",
+        "name": "Yuria Serenaca",
+        "item_link": "https://bdocodex.com/us/item/733014/"
+    },
+    {
+        "id": "692015",
+        "name": "Yuria Shamshir",
+        "item_link": "https://bdocodex.com/us/item/692015/"
+    },
+    {
+        "id": "13214",
+        "name": "Yuria Shortsword",
+        "item_link": "https://bdocodex.com/us/item/13214/"
+    },
+    {
+        "id": "735414",
+        "name": "Yuria Slayer",
+        "item_link": "https://bdocodex.com/us/item/735414/"
+    },
+    {
+        "id": "14414",
+        "name": "Yuria Staff",
+        "item_link": "https://bdocodex.com/us/item/14414/"
+    },
+    {
+        "id": "739414",
+        "name": "Yuria Swallowtail Fan",
+        "item_link": "https://bdocodex.com/us/item/739414/"
+    },
+    {
+        "id": "16158",
+        "name": "[Hunting] Apprentice Matchlock",
+        "item_link": "https://bdocodex.com/us/item/16158/"
+    },
+    {
+        "id": "16157",
+        "name": "[Hunting] Beginner Matchlock",
+        "item_link": "https://bdocodex.com/us/item/16157/"
+    }
+]
